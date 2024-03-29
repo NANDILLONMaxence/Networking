@@ -10,11 +10,11 @@ Le présent guide explique comment configurer l'agrégation de liens sur des swi
 
 Voici un schéma représentant un exemple d'agrégation de liens avec 2 switchs :
 
-<img src= "https://github.com/NANDILLONMaxence/" width="100%" />
+<img src= "https://github.com/NANDILLONMaxence/Networking/blob/main/CFG_LACP/screen/1-schema_agregat_liens.png" width="100%" />
 
 ## Configuration
 
-<img src= "https://github.com/NANDILLONMaxence/" width="100%" />
+<img src= "https://github.com/NANDILLONMaxence/Networking/blob/main/CFG_LACP/screen/2-ARCHI_TP_PO.png" width="100%" />
 
 ### Agrégat de 2 Liens (Port Channel 1)
 
