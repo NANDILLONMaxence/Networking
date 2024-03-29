@@ -19,5 +19,5 @@ Bien sûr, voici la correction des fautes dans votre texte :
 - Explorez les liens ci-dessus pour accéder directement à la documentation de chaque configuration.
 - Si vous rencontrez une erreur ou souhaitez contribuer, n'hésitez pas à ouvrir une issue ou une pull request.
 
-Merci d'utiliser Networking pour découvrir et contribuer à une variété de configs possibles. Si vous avez des questions ou des suggestions, n'hésitez pas à les partager !
+#### Merci d'utiliser Networking pour découvrir et contribuer à une variété de configs possibles. Si vous avez des questions ou des suggestions, n'hésitez pas à les partager !
 ---
