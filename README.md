@@ -2,7 +2,7 @@
 
 Ce dépôt GitHub, Networking, rassemble une série de configurations appliquées lors de mes projets liés au réseau. Chaque dossier représente une configuration spécifique et comprend des détails sur sa mise en place, ainsi que les étapes que j'ai suivies pour la réaliser.
 
-## Liste des Erreurs Résolues :
+## Liste des Configurations Résolues :
 
 ### 1. [CFG_LACP](CFG_LACP/)
    - **Description :** 
